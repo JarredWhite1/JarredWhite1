@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jarred! <br/><a href="https://github.com/JarreWhite1">Cybersecurity Professional</a>, <a href="https://https://www.linkedin.com/in/jarred-white-2764aa23a/"</a> <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jarred! <br/><a href="https://github.com/JarreWhite1">Cybersecurity Professional</a> <a href="https://https://www.linkedin.com/in/jarred-white-2764aa23a/"</a></h1>
 
 <h2>👨‍💻 Cybersecurity/Ethical Hacking Projects:</h2>
 
@@ -18,24 +18,19 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2> Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
+- [CompTIA Pentest+](https://www.credly.com/earner/earned/badge/bd7c6fc5-2bf4-4de5-aa45-c929c82a2300)
+- [CompTIA CySA+](https://www.credly.com/earner/earned/badge/71b277a9-1fb1-4418-a769-4a3b6cee1c49)
+- [CompTIA Security+](https://www.credly.com/earner/earned/badge/e2caa483-0b84-4db4-95b5-197281c8ce28)
+- [CompTIA Network+](https://www.credly.com/earner/earned/badge/0e1c6148-ad67-4e35-878e-026435d51bcf)
+- [CompTIA A+](https://www.credly.com/earner/earned/badge/a19e0b75-4130-4b88-b97a-43326c8f2228)
+- [ISC² SSCP](https://www.credly.com/earner/earned/badge/9fdc0b9b-0e89-4fa8-8476-84e2b6c8d500)
+[Google IT Support Certificate](https://www.credly.com/earner/earned/badge/617a19c5-53db-4f54-a1a2-7b441798fcd2)
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/jarred-white-2764aa23a/
 
 <!--
