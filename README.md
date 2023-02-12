@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity/Ethical Hacking Projects:</h2>
 
 - <b>Try Hack Me- Enumerating and Exploiting a Vulnerable Web Target Lab</b>
-  - [Net Sec Challenge Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Net Sec Challenge Lab](https://github.com/JarredWhite1/Enumeration-and-Exploitation)
 - <b>Metasploitable 2 Lab</b>
   - [Finding/Exploiting Vulnerabilities](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
