@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity/Ethical Hacking Projects:</h2>
 
-- <b>Try Hack Me- Enumerating and Exploiting a Vulnerable Web Target Lab</b>
+- <b>Try Hack Me- EnumeratingAndExploitingLab</b>
   - [Net Sec Challenge Lab](https://github.com/JarredWhite1/Enumeration-and-Exploitation)
-- <b>Metasploitable 2 Lab</b>
+- <b>Metasploitable2HomeLab</b>
   - [Finding/Exploiting Vulnerabilities](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>PowerShell</b>
+- <b>NessusVulnerabilityScanLab</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
@@ -34,7 +34,7 @@
 [linkedin]: https://www.linkedin.com/in/jarred-white-2764aa23a/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JarredWhite1/JarredWhite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
