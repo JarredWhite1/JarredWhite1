@@ -26,7 +26,7 @@
 - [CompTIA Network+](https://www.credly.com/earner/earned/badge/0e1c6148-ad67-4e35-878e-026435d51bcf)
 - [CompTIA A+](https://www.credly.com/earner/earned/badge/a19e0b75-4130-4b88-b97a-43326c8f2228)
 - [ISC² SSCP](https://www.credly.com/earner/earned/badge/9fdc0b9b-0e89-4fa8-8476-84e2b6c8d500)
-[Google IT Support Certificate](https://www.credly.com/earner/earned/badge/617a19c5-53db-4f54-a1a2-7b441798fcd2)
+- [Google IT Support Certificate](https://www.credly.com/earner/earned/badge/617a19c5-53db-4f54-a1a2-7b441798fcd2)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
