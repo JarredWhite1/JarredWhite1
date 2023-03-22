@@ -29,7 +29,7 @@
 - [Google IT Support Certificate](https://www.credly.com/earner/earned/badge/617a19c5-53db-4f54-a1a2-7b441798fcd2)
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JarredWhite | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jarred-white-2764aa23a/
 
