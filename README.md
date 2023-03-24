@@ -15,8 +15,6 @@
   - [Examining an Evidence Drive for Illegal Activites](https://github.com/JarredWhite1/Digital-Forensics)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📃 Certifications</h2>
 
