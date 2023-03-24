@@ -5,7 +5,7 @@
 - <b>Try Hack Me- Enumerating and Exploiting Home Lab</b>
   - [Net Sec Challenge Lab](https://github.com/JarredWhite1/Enumeration-and-Exploitation)
 - <b>Metasploitable 2 Home Lab</b>
-  - [Finding/Exploiting Vulnerabilities](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
 - <b>Nessus Vulnerability Scan Lab</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
