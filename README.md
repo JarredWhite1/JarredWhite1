@@ -15,7 +15,7 @@
   - [Examining an Evidence Drive for Illegal Activites](https://github.com/JarredWhite1/Digital-Forensics)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Digital Forensics Lab</b>
+- <b>Active Directory Exploitation Labs</b>
   - [Examining an Evidence Drive for Illegal Activites](https://github.com/JarredWhite1/Digital-Forensics)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
