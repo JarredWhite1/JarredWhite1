@@ -15,7 +15,10 @@
   - [Examining an Evidence Drive for Illegal Activites](https://github.com/JarredWhite1/Digital-Forensics)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
+- <b>Digital Forensics Lab</b>
+  - [Examining an Evidence Drive for Illegal Activites](https://github.com/JarredWhite1/Digital-Forensics)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 <h2>📃 Certifications</h2>
 
 - [CompTIA Pentest+](https://www.credly.com/earner/earned/badge/bd7c6fc5-2bf4-4de5-aa45-c929c82a2300)
