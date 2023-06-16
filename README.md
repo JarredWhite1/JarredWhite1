@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Active Directory Exploitation Labs</b>
-  - [LLMNR Poisoning] (https://github.com/JarredWhite1/LLMNR-Poisioning)
+  - [LLMNR Poisoning](https://github.com/JarredWhite1/LLMNR-Poisioning)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 <h2>📃 Certifications</h2>
