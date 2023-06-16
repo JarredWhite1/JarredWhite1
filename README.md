@@ -18,7 +18,7 @@
 - <b>Active Directory Exploitation Labs</b>
   - [LLMNR Poisoning](https://github.com/JarredWhite1/LLMNR-Poisioning)
   - [SMB Relay Attack](https://github.com/JarredWhite1/SMB-Relay/blob/main/README.md)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
 <h2>📃 Certifications</h2>
 
 - [CompTIA Pentest+](https://www.credly.com/earner/earned/badge/bd7c6fc5-2bf4-4de5-aa45-c929c82a2300)
