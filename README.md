@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity/Ethical Hacking Projects:</h2>
 
-- <b>HTB - Machine Pentest Writeup</b>
-  - [Machine: Enumeration](https://github.com/JarredWhite1/HTB-Enumeration)
+- <b>Pentest Writeups</b>
+  - [HTB Machine: Enumeration](https://github.com/JarredWhite1/HTB-Enumeration)
+  - [PG Practice Machine: Exfiltrated](https://github.com/JarredWhite1/HTB-Enumeration)
 - <b>Metasploitable 2 Home Lab</b>
   - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
 - <b>Nessus Vulnerability Scan Lab</b>
