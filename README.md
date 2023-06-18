@@ -6,6 +6,13 @@
   - [HTB Machine: Enumeration](https://github.com/JarredWhite1/HTB-Enumeration)
   - [PG Practice Machine: Exfiltrated](https://github.com/JarredWhite1/PG-Practice-Exfiltration)
   - [PG Practice Machine: Bratarina](https://github.com/JarredWhite1/PG-Practice-Bratarina)
+- <b>Active Directory Exploitation Labs</b>
+  - [LLMNR Poisoning](https://github.com/JarredWhite1/LLMNR-Poisioning)
+  - [SMB Relay Attack](https://github.com/JarredWhite1/SMB-Relay/blob/main/README.md)
+- <b>Digital Forensics Lab</b>
+  - [Examining an Evidence Drive for Illegal Activites](https://github.com/JarredWhite1/Digital-Forensics)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Metasploitable 2 Home Lab</b>
   - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
 - <b>Nessus Vulnerability Scan Lab</b>
@@ -14,12 +21,7 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Digital Forensics Lab</b>
-  - [Examining an Evidence Drive for Illegal Activites](https://github.com/JarredWhite1/Digital-Forensics)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Active Directory Exploitation Labs</b>
-  - [LLMNR Poisoning](https://github.com/JarredWhite1/LLMNR-Poisioning)
-  - [SMB Relay Attack](https://github.com/JarredWhite1/SMB-Relay/blob/main/README.md)
+
   
 <h2>📃 Certifications</h2>
 
