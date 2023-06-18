@@ -4,7 +4,7 @@
 
 - <b>Pentest Writeups</b>
   - [HTB Machine: Enumeration](https://github.com/JarredWhite1/HTB-Enumeration)
-  - [PG Practice Machine: Exfiltrated](https://github.com/JarredWhite1/HTB-Enumeration)
+  - [PG Practice Machine: Exfiltrated](https://github.com/JarredWhite1/PG-Practice-Exfiltration)
 - <b>Metasploitable 2 Home Lab</b>
   - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
 - <b>Nessus Vulnerability Scan Lab</b>
