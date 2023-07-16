@@ -16,10 +16,10 @@
 - <b>Metasploitable 2 Home Lab</b>
   - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
 - <b>Nessus Vulnerability Scan Lab</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - [JWipe (Disk Wiping Utility)]
+  - [Active Directory Bulk User Creation]
+  - [FIM (File Integrity Monitor)]
 
 
   
