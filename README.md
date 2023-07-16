@@ -9,6 +9,10 @@
 - <b>Active Directory Exploitation Labs</b>
   - [LLMNR Poisoning](https://github.com/JarredWhite1/LLMNR-Poisioning)
   - [SMB Relay Attack](https://github.com/JarredWhite1/SMB-Relay/blob/main/README.md)
+  - [Kerberoasting](https://github.com/JarredWhite1/LLMNR-Poisioning)
+  - [Pass the Hash Attack with Impacket Tools](https://github.com/JarredWhite1/LLMNR-Poisioning)
+
+
 - <b>Digital Forensics Lab</b>
   - [Examining an Evidence Drive in Autopsy](https://github.com/JarredWhite1/Digital-Forensics)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
