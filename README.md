@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jarred! <br/><a href="https://github.com/JarreWhite1">Cybersecurity Professional</a> <a href="https://https://www.linkedin.com/in/jarred-white-2764aa23a/"</a></h1>
 
-<h2>👨‍💻 Cybersecurity/Ethical Hacking Projects:</h2>
+<h2>👨‍💻 Cybersecurity/Penetration Testing Projects:</h2>
 
 - <b>Pentest Writeups</b>
   - [HTB Machine: Enumeration](https://github.com/JarredWhite1/HTB-Enumeration)
