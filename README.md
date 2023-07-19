@@ -19,8 +19,8 @@
  
 - <b>Metasploitable 2 Home Lab</b>
   - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
-- <b>Nessus Vulnerability Scan Lab</b>
-  - [Active Directory Bulk User Creation]
+- <b>Vulnerability Scanning Lab</b>
+  - [Nessus Vulnerability Scan and Report](https://github.com/JarredWhite1/Vulnerability-Scanning)
   - [FIM (File Integrity Monitor)]
 
 
