@@ -21,7 +21,7 @@
   - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
 - <b>Vulnerability Scanning Lab</b>
   - [Nessus Vulnerability Scan and Report](https://github.com/JarredWhite1/Vulnerability-Scanning)
-  - [FIM (File Integrity Monitor)]
+  
 
 
   
