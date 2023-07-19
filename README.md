@@ -5,7 +5,7 @@
 - <b>Pentest Writeups</b>
   - [HTB Machine: Enumeration](https://github.com/JarredWhite1/HTB-Enumeration)
   - [PG Practice Machine: Zino](https://github.com/JarredWhite1/PG-Practice-Zino)
-  - [PG Practice Machine: Snookums](https://github.com/JarredWhite1/PG-Practice-Bratarina)
+  - [PG Practice Machine: Snookums](https://github.com/JarredWhite1/PG-Practice-Snookums)
 - <b>Active Directory Exploitation Labs</b>
   - [LLMNR Poisoning](https://github.com/JarredWhite1/LLMNR-Poisioning)
   - [SMB Relay Attack](https://github.com/JarredWhite1/SMB-Relay/blob/main/README.md)
