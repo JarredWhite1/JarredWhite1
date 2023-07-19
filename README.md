@@ -16,13 +16,10 @@
 
 - <b>Digital Forensics Lab</b>
   - [Examining an Evidence Drive in Autopsy](https://github.com/JarredWhite1/Digital-Forensics)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+ 
 - <b>Metasploitable 2 Home Lab</b>
   - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
 - <b>Nessus Vulnerability Scan Lab</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [JWipe (Disk Wiping Utility)]
   - [Active Directory Bulk User Creation]
   - [FIM (File Integrity Monitor)]
 
@@ -43,17 +40,12 @@
 
 [linkedin]: https://www.linkedin.com/in/jarred-white-pa/
 
-<!--
-**JarredWhite1/JarredWhite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br>
 
-Here are some ideas to get you started:
+ 
+-  I’m currently working on studying for the Offsec OSCP exam.
+- 🌱 I’m currently learning Active Directory Attack Vectors and Vulnerabilities. I plan on taking TCM`s PJPT exam soon.
+- 🤔 I’m looking for help finding employment in the Infosec field!
+- 💬 Ask me about my homelab experience and school projects! 
+- 📫 How to reach me: https://www.linkedin.com/in/jarred-white-pa/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
