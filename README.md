@@ -7,6 +7,8 @@
   - [PG Practice Machine: Zino](https://github.com/JarredWhite1/PG-Practice-Zino)
   - [PG Practice Machine: Snookums](https://github.com/JarredWhite1/PG-Practice-Snookums)
   - [PG Practice Machine: ClamAV](https://github.com/JarredWhite1/PG-Practice-ClamAV)
+  - [PG Practice Machine: Pelican](https://github.com/JarredWhite1/PG-Practice-ClamAV)
+
 - <b>Active Directory Exploitation Labs</b>
   - [LLMNR Poisoning](https://github.com/JarredWhite1/LLMNR-Poisioning)
   - [SMB Relay Attack](https://github.com/JarredWhite1/SMB-Relay/blob/main/README.md)
