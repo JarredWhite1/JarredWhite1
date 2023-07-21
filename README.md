@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity/Penetration Testing Projects:</h2>
 
 - <b>Pentest Writeups</b>
-  - [HTB Machine: Enumeration](https://github.com/JarredWhite1/HTB-Enumeration)
   - [PG Practice Machine: Zino](https://github.com/JarredWhite1/PG-Practice-Zino)
   - [PG Practice Machine: Snookums](https://github.com/JarredWhite1/PG-Practice-Snookums)
   - [PG Practice Machine: ClamAV](https://github.com/JarredWhite1/PG-Practice-ClamAV)
@@ -18,9 +17,7 @@
 
 - <b>Digital Forensics Lab</b>
   - [Examining an Evidence Drive in Autopsy](https://github.com/JarredWhite1/Digital-Forensics)
- 
-- <b>Metasploitable 2 Home Lab</b>
-  - [Finding/Exploiting Vulnerabilities](https://github.com/JarredWhite1/Vulnerability-Scanning) <b><i></b></i>
+  <b><i></b></i>
 - <b>Vulnerability Scanning Lab</b>
   - [Nessus Vulnerability Scan and Report](https://github.com/JarredWhite1/Vulnerability-Scanning)
   
