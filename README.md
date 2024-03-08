@@ -11,7 +11,7 @@
 - <b>Active Directory Exploitation Labs</b>
   - [LLMNR Poisoning](https://github.com/JarredWhite1/LLMNR-Poisioning)
   - [SMB Relay Attack](https://github.com/JarredWhite1/SMB-Relay/blob/main/README.md)
-  - [Kerberoasting](https://github.com/JarredWhite1/LLMNR-Poisioning)
+  - [Kerberoasting](https://github.com/JarredWhite1)
   - [Pass the Hash Attack with Impacket Tools](https://github.com/JarredWhite1/Pass-the-Hash-Attacks)
 
 
