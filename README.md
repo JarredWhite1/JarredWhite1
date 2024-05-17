@@ -43,7 +43,7 @@
 
  
 -  I’m currently working on studying for the Offsec OSCP exam.
-- 🌱 I’m currently learning Active Directory Attack Vectors and Vulnerabilities. I plan on taking TCM`s PJPT exam soon.
+- 🌱 I’m currently learning Active Directory Attack Vectors and Vulnerabilities.
 - 🤔 I’m looking for help finding employment in the Infosec field!
 - 💬 Ask me about my homelab experience and school projects! 
 - 📫 How to reach me: https://www.linkedin.com/in/jarred-white-pa/
